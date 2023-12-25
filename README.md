@@ -1,7 +1,7 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw0lr92ukvxsKQrVSJlmTFJe&ust=1703597597834000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjE9N_ZqoMDFQAAAAAdAAAAABAE"
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw0lr92ukvxsKQrVSJlmTFJe&ust=1703597597834000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjE9N_ZqoMDFQAAAAAdAAAAABAE">
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 📫 How to reach me **aditya94118@gmail.com**
