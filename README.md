@@ -23,7 +23,7 @@ Passionate about technology and want to learn & explore new technologies.
 - [LeetCode](https://leetcode.com/Aditya94118/) : 50+ Problems (Data Structures and Algorithms).
 
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=Aditya94118_)
+![Leetcode Stats](https://leetcode.card.workers.dev/Aditya94118?theme=dark&font=baloo&extension=null)
 
 ---
 
